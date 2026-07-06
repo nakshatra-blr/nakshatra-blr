@@ -31,6 +31,79 @@ I believe the future of finance is at the intersection of **domain expertise** a
 
 ---
 
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nakshatra-blr&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🥇<br>
+**Built Production AI System**<br>
+<sub>Fully autonomous LinkedIn AutoPost engine with AI content generation</sub>
+
+</td>
+<td align="center" width="25%">
+
+📜<br>
+**B.Com Graduate**<br>
+<sub>Specialized in Accounting, Finance & Business Management</sub>
+
+</td>
+<td align="center" width="25%">
+
+🤖<br>
+**AI & Automation**<br>
+<sub>Self-taught Python, API integration, and LLM prompt engineering</sub>
+
+</td>
+<td align="center" width="25%">
+
+🔥<br>
+**60+ Articles Written**<br>
+<sub>Finance, taxation, business strategy & career growth content</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+☁️<br>
+**Cloud & DevOps**<br>
+<sub>GitHub Actions CI/CD, serverless automation, OAuth 2.0</sub>
+
+</td>
+<td align="center" width="25%">
+
+📊<br>
+**Financial Analysis**<br>
+<sub>Proficient in ratio analysis, budgeting, forecasting & valuation</sub>
+
+</td>
+<td align="center" width="25%">
+
+💻<br>
+**Multi-API Integration**<br>
+<sub>LinkedIn API, Groq AI, Gemini AI, Google News RSS</sub>
+
+</td>
+<td align="center" width="25%">
+
+📈<br>
+**LinkedIn Growth**<br>
+<sub>AI-driven content strategy with automated posting pipeline</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💡 What I'm Good At
 
 <table>
@@ -148,6 +221,8 @@ I'm actively looking for opportunities in:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakshatra-blr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=c8a44e&icon_color=4fc3f7&text_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-blr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=c8a44e&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nakshatra-blr&theme=tokyonight&hide_border=true&background=0a1628&ring=c8a44e&fire=c8a44e&currStreakLabel=4fc3f7&sideLabels=4fc3f7&currStreakNum=ffffff&sideNums=ffffff&dates=888888)
 
 </div>
 
